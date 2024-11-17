@@ -1,0 +1,12 @@
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\bin\Debug\MiniWord_NguyenVanDuy.exe.config
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\bin\Debug\MiniWord_NguyenVanDuy.exe
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\bin\Debug\MiniWord_NguyenVanDuy.pdb
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\obj\Debug\MiniWord_NguyenVanDuy.csproj.AssemblyReference.cache
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\obj\Debug\MiniWord_NguyenVanDuy.Form1.resources
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\obj\Debug\MiniWord_NguyenVanDuy.Properties.Resources.resources
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\obj\Debug\MiniWord_NguyenVanDuy.csproj.GenerateResource.cache
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\obj\Debug\MiniWord_NguyenVanDuy.csproj.CoreCompileInputs.cache
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\obj\Debug\MiniWord_NguyenVanDuy.exe
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\obj\Debug\MiniWord_NguyenVanDuy.pdb
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\obj\Debug\MiniWord_NguyenVanDuy.Form2.resources
+D:\University\Nam4_1\Lap_trinh_windowns\MiniWord_NguyenVanDuy\MiniWord_NguyenVanDuy\obj\Debug\MiniWord_NguyenVanDuy.Form3.resources
